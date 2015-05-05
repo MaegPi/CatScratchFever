@@ -1,0 +1,8 @@
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\obj\x86\Debug\CatScratchFever.FormView.resources
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\obj\x86\Debug\CatScratchFever.Properties.Resources.resources
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\obj\x86\Debug\CatScratchFever.csproj.GenerateResource.Cache
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\bin\Debug\CatScratchFever.exe
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\bin\Debug\CatScratchFever.pdb
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\obj\x86\Debug\CatScratchFever.exe
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\obj\x86\Debug\CatScratchFever.pdb
+C:\Users\Jessica\Documents\GitHub\CatScratchFever\CatScratchFever\bin\Debug\yarn.png
